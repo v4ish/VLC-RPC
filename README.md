@@ -5,7 +5,6 @@ Discord Rich presence for [VLC](https://www.videolan.org/vlc/) written in c#
 ## Todo
 - [x] Finish Development
 - [x] Integrate with VLC
-- [ ] Music Support
 - [x] Show Presence on idle
 
 ## Screenshots
@@ -19,7 +18,7 @@ Discord Rich presence for [VLC](https://www.videolan.org/vlc/) written in c#
 
 [Requires .net 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
-[Download from releases](https://github.com/v4ish/Spicetify-RPC/releases/latest)
+[Download from releases](https://github.com/v4ish/VLC-RPC/releases/latest)
 
 ## FAQ
 
@@ -32,7 +31,7 @@ Yes, if a VLC instance is running, it wil work
 
 #### How much memory does it takes?
 
-TODO
+21MB
 
 ## Development
 ``` bash

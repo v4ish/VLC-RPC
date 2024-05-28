@@ -11,9 +11,9 @@ Discord Rich presence for [VLC](https://www.videolan.org/vlc/) written in c#
 ## Screenshots
 
 <img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc.png" alt="logo" width="300"/>
-<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc1.png" alt="logo" width="300"/>
-<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc2.png" alt="logo" width="300"/>
-<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc3.png" alt="logo" width="300"/>
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc1.png" alt="logo" width="350"/>
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc2.png" alt="logo" width="400"/>
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/vlc3.png" alt="logo" width="400"/>
 
 ## Installation
 

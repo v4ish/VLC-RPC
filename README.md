@@ -3,10 +3,10 @@ Discord Rich presence for [VLC](https://www.videolan.org/vlc/) written in c#
 
 
 ## Todo
-- [ ] Finish Development
-- [ ] Integrate with VLC
+- [x] Finish Development
+- [x] Integrate with VLC
 - [ ] Music Support
-- [ ] Show Presence on idle
+- [x] Show Presence on idle
 
 ## Screenshots
 

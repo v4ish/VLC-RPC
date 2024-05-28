@@ -1,4 +1,4 @@
-# VLC-RPC
+# [VLC-RPC](https://github.com/v4ish/rpc)
 Discord Rich presence for [VLC](https://www.videolan.org/vlc/) written in c#
 
 
